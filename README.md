@@ -53,6 +53,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Pratiksha-Rajpurohit&color=blue)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)](https://github.com/YourGitHubUsername)
+
+
 ⭐️ _Feel free to check out my repositories and leave a star if you like them!_  
 
 ---
