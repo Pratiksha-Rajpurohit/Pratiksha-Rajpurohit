@@ -16,7 +16,7 @@
 ## 🛠️ Skills & Technologies  
 ### **Android Development**  
 - Kotlin, Java, Android Studio  
-- MVVM, MVP, MVC Architecture  
+- MVVM Architecture  
 - Coroutines, Room Database, Firebase (Authentication, Firestore, Storage)  
 - REST API, Retrofit  
 
