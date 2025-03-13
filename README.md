@@ -38,7 +38,7 @@
 👉 [View Project](https://github.com/Pratiksha-Rajpurohit/QuizGame)  
 
 ### 🎯 **Sorting Visualization**  
-- Web-based tool that visualizes different sorting algorithms in action  
+- Web-site that visualizes different sorting algorithms in action  
 - Helps users understand how sorting works step-by-step  
 👉 [View Project](https://github.com/Pratiksha-Rajpurohit/Sorting-Visualization)  
 
