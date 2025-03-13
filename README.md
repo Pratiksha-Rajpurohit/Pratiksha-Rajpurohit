@@ -24,7 +24,7 @@
 
 ## 🌟 Projects  
 ### 📱 **Recipe Application**  
-- Firebase-based recipe app with user authentication and real-time storage  
+- Firebase-based recipe app with user authentication and real-time storage                           
 - Users can add, view, and browse recipes with images  
 👉 [View Project](https://github.com/Pratiksha-Rajpurohit/RecipeApplication)  
 
@@ -49,9 +49,7 @@
 ---
 
 ## 📫 **Contact Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](linkedin.com/in/pratiksha-rajpurohit-602212280)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat)](mailto:pratirajpurohit@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/Pratiksha-Rajpurohit)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](linkedin.com/in/pratiksha-rajpurohit-602212280)    [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat)](mailto:pratirajpurohit@gmail.com)    [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/Pratiksha-Rajpurohit)  
 
 ---
 
