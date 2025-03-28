@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Pratiksha Rajpurohit!  
 
-👩‍💻 **Software Developer | Android Developer**
+<!--👩‍💻 **Software Developer | Android Developer** -->
 
 ---
 
