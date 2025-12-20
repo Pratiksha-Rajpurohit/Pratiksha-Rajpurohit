@@ -30,11 +30,6 @@ Built and published an Android app that blocks distracting apps for a user-defin
 Displays per-app usage, time, and percentage. Supports Google Play Billing (weekly, yearly, lifetime).  
 👉 [Published on Google Play Store](https://play.google.com/store/apps/details?id=com.dropouts.Stop_Scrolling&pcampaignid=web_share)
 
-## 💳 FASTag ₹100 | Kotlin, XML, MVVM, Coroutines, AdMob
-Developed an app to generate UPI IDs for FASTag recharges (₹100 minimum); 10,000+ downloads.  
-Implemented AdMob monetization while keeping the app free. Clean UI built with Kotlin & XML.  
-👉 [Published on Google Play Store](https://play.google.com/store/apps/details?id=com.dropouts.fastag_100&pcampaignid=web_share)
-
 ## 💌 Heart Words App | Kotlin, XML, MVVM, Room Database, Gson, Coroutines, RevenueCat
 Created an app to generate personalized wishes/statuses using AI API.  
 Room DB used for CRUD operations. Integrated RevenueCat subscriptions, AdMob ads, and Gson for JSON.  
