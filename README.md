@@ -22,7 +22,7 @@ data class Developer(
     val name: String           = "Pratiksha Rajpurohit",
     val role: String           = "Android Developer",
     val location: String       = "Nagpur, India 🇮🇳",
-    val experience: String     = "1+ Year",
+    val experience: String     = "1 Year",
     val education: String      = "B.Tech CSE — CGPA 8.24/10",
     val playStoreApps: Int     = 4,
     val totalDownloads: String = "1,600+",
