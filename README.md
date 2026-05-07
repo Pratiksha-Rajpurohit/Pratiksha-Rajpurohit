@@ -172,7 +172,6 @@ If you're looking for a dedicated Android Developer who ships real apps with rea
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-rajpurohit)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratiksharaj987@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_7620644227-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917620644227)
 
 </div>
 
