@@ -112,7 +112,7 @@ data class Developer(
 - 📑 Features: invoice management, sales job tracking, payment history
 - 🏗️ **Tech Stack:** Kotlin · MVVM · Retrofit · OkHttp · REST APIs · Stax SDK
 
-[![Play Store](https://img.shields.io/badge/📱_View_on_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dropouts.propumas)
+[![Play Store](https://img.shields.io/badge/📱_View_on_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.propumas.erp)
 
 ---
 
@@ -126,7 +126,7 @@ data class Developer(
 - ⚡ Smooth async data loading with **Kotlin Coroutines**
 - 🏗️ **Tech Stack:** Kotlin · MVVM · Kotlin Coroutines · RevenueCat · AdMob
 
-[![Play Store](https://img.shields.io/badge/📱_View_on_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dropouts.checkmydevice)
+[![Play Store](https://img.shields.io/badge/📱_View_on_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dropouts.check_my_device)
 
 ---
 
