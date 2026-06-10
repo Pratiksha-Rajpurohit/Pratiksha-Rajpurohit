@@ -25,14 +25,14 @@ data class Developer(
     val location: String       = "Nagpur, India 🇮🇳",
     val experience: String     = "1 Year",
     val education: String      = "B.Tech CSE — CGPA 8.24/10",
-    val playStoreApps: Int     = 4,
+    val playStoreApps: Int     = 5,
     val totalDownloads: String = "1,600+",
     val currentCompany: String = "Dropouts Technologies LLP, Pune",
     val passion: String        = "Building clean, scalable Android apps"
 )
 ```
 
-> 🚀 Android Developer with **1 year of experience** crafting production-ready mobile applications using **Kotlin & MVVM Architecture**. I've shipped **4 apps to the Google Play Store** with **1,600+ combined downloads**, including one that hit **1,000+ downloads in just 3 months**.
+> 🚀 Android Developer with **1 year of experience** crafting production-ready mobile applications using **Kotlin & MVVM Architecture**. I've shipped **5 apps to the Google Play Store** with **1,600+ combined downloads**, including one that hit **1,000+ downloads in just 3 months**.
 
 ---
 
@@ -74,19 +74,19 @@ data class Developer(
 
 ## 🌟 Projects — Live on Google Play Store
 
-### 📵 Stop Scrolling — Social Media Blocker
+### 📄 ScripDeal Exporters — Duty Credit Scrip Marketplace
+
 > *Dropouts Technologies LLP, Pune*
 
-**A digital wellness app that helps users break phone addiction by blocking distracting apps based on custom schedules and daily usage limits.**
+**A B2B marketplace that enables Indian exporters to sell RoDTEP/RoSCTL duty credit scrips, receive buyer quotes, track deal status, and manage their scrip portfolio through a secure mobile platform.**
 
-- ⚙️ Built using `UsageStatsManager` API for real-time app tracking
-- 💳 Integrated **RevenueCat** subscription paywall (weekly, yearly, lifetime plans)
-- 📊 Displays per-app usage stats, time, and percentage
-- 🏗️ **Tech Stack:** Kotlin · MVVM · UsageStatsManager API · RevenueCat · Room Database
+- 📊 Developed Dashboard, My Scrips, Scrip Details, and Post Scrip modules
+-  📂 Implemented multi-format document uploads (PDF, Image, Word, Excel) using Retrofit multipart APIs
+- 📍 Built geo-verified scrip submission workflows with location capture for compliance
+- 🔗 Integrated REST APIs and managed UI state using MVVM architecture, Retrofit, Coroutines.
+- 🏗️ Tech Stack: Kotlin · MVVM · Retrofit · OkHttp · Coroutines
 
-[![Play Store](https://img.shields.io/badge/📱_View_on_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dropouts.Stop_Scrolling&pcampaignid=web_share)
-
----
+[![Play Store](https://img.shields.io/badge/📱_View_on_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.scripdeal.exporter)
 
 ### 🚶 Walk to Unlock — Step Goal App
 > *Dropouts Technologies LLP, Pune*
@@ -107,7 +107,6 @@ data class Developer(
 
 **A B2B ERP customer portal enabling Spectra's business clients to manage invoices, track sales jobs, view payment history, and make secure card/ACH payments — connected to a Frappe/ERPNext backend.**
 
-- 💳 Integrated **Stax SDK** for card and ACH bank transfer payments
 - 🔗 Connected to **Frappe/ERPNext** backend via REST APIs
 - 📑 Features: invoice management, sales job tracking, payment history
 - 🏗️ **Tech Stack:** Kotlin · MVVM · Retrofit · OkHttp · REST APIs · Stax SDK
@@ -116,14 +115,25 @@ data class Developer(
 
 ---
 
+### 📵 Stop Scrolling — Social Media Blocker
+> *Dropouts Technologies LLP, Pune*
+
+**A digital wellness app that helps users break phone addiction by blocking distracting apps based on custom schedules and daily usage limits.**
+
+- ⚙️ Built using `UsageStatsManager` API for real-time app tracking
+- 💳 Integrated **RevenueCat** subscription paywall (weekly, yearly, lifetime plans)
+- 📊 Displays per-app usage stats, time, and percentage
+- 🏗️ **Tech Stack:** Kotlin · MVVM · UsageStatsManager API · RevenueCat · Room Database
+
+[![Play Store](https://img.shields.io/badge/📱_View_on_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dropouts.Stop_Scrolling&pcampaignid=web_share)
+
+---
+
 ### 📱 Check My Device — Hardware Diagnostics
 > *Dropouts Technologies LLP, Pune*
 
 **A device diagnostic utility giving users a complete real-time overview of their phone's hardware and software — RAM, CPU, battery health, and available sensors.**
 
-- 📡 Displays real-time RAM usage, CPU details, battery health & sensors
-- 💰 Monetized with **AdMob** (banner + interstitial ads) and **RevenueCat** subscriptions
-- ⚡ Smooth async data loading with **Kotlin Coroutines**
 - 🏗️ **Tech Stack:** Kotlin · MVVM · Kotlin Coroutines · RevenueCat · AdMob
 
 [![Play Store](https://img.shields.io/badge/📱_View_on_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dropouts.check_my_device)
